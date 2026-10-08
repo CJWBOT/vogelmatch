@@ -253,12 +253,12 @@ const SAFETY = [
   ["🍳","PTFE/Teflon (anti-aanbakpannen, sommige airfryers, zelfreinigende ovens) geeft bij oververhitting dodelijke dampen."],
   ["🚬","Geen rook, vape, geurkaarsen, luchtverfrissers of spuitbussen in de vogelruimte."],
   ["🪴","Veel kamerplanten zijn giftig. Check elke plant in vlieg- of knaagbereik."],
-  ["🥑","Nooit avocado, chocolade, cafïïne, alcohol of zout eten; zaad-only is ondervoeding."],
+  ["🥑","Nooit avocado, chocolade, cafeïne, alcohol of zout eten; zaad-only is ondervoeding."],
   ["🐾","Andere huisdieren nooit onbeheerd samen — ook niet als beide ‘tam’ zijn. Tam ≠ veilig."],
   ["🧒","Kinderen alleen onder toezicht; leer ze rustig te bewegen en nooit vast te pakken."],
   ["😴","10–12 uur donker en rust per nacht. Slaaptekort geeft stress en hormonaal gedrag."],
   ["🏃","Dagelijks beweging, verrijking en sociaal contact; verveling leidt tot plukken en schreeuwen."],
-  ["🌍","Buiten vrij vliegen (free flight) is een specialistische discipline met reële verliesrisico. Tamheid of recall-training is géén garantie: één schrikmoment is genoeg."]
+  ["🌍","Buiten vrij vliegen (free flight) is een specialistische discipline met reëel verliesrisico. Tamheid of recall-training is géén garantie: één schrikmoment is genoeg."]
 ];
 
 if (typeof module !== "undefined") module.exports = { fmtRange, buildProfile, evalSpecies, rankAll, pairAdvice, petEval, reasonsFor, watchouts, sexAdvice, idealDay, realityCheck, SAFETY, fmtH, PET_LABEL };
